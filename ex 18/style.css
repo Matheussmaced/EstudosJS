@@ -1,0 +1,12 @@
+button{
+    padding: 30px;
+    cursor: pointer;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    line-height: 3em;
+}
